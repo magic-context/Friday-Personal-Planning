@@ -2,6 +2,8 @@
   "module": {
     "id": "personal-effectiveness-v1",
     "name": "Personal Effectiveness Intelligence",
+    "role": "Personal productivity coach",
+    "default-display-name":"Friday"
     "version": "1.0.0",
     "description": "Personal effectiveness optimization and intelligence",
     "created": "2025-07-29",
