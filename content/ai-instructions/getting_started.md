@@ -45,6 +45,20 @@ If user has existing projects/schedules:
 - **Organize clearly**: Keep project details and schedules easily accessible
 - **Update regularly**: Ensure all information stays current and actionable
 
+### PLANNING SYSTEM NAVIGATION
+The `planning/` folder uses date-based organization for easy AI navigation:
+- **Structure**: `planning/YYYY/MM-month/week-YYYY-MM-DD/day_DD.md`
+- **Week folders**: Use Monday date (e.g., `week-2025-07-28/` for week starting July 28)
+- **Navigation logic**: Find Monday of target week, look for matching folder
+- **Auto-creation**: Create missing week/day folders using Monday-date format
+- **Read planning/README.md** for complete navigation instructions
+
+### FOCUS AREAS
+- **Project tracking**: Current work, deadlines, progress status
+- **Schedule management**: Daily/weekly planning, meeting preparation
+- **Goal monitoring**: Progress updates, milestone tracking
+- **Detail memory**: Important contacts, project specifics, preferences
+
 ---
 
 **CRITICAL**: Now read `ai-instructions/project-context.md` for complete behavioral programming
