@@ -22,6 +22,7 @@
 - `current-status/`: Active priorities and this week's focus
 - `goals/`: Goals with deadlines and progress tracking
 - `planning/`: Daily/weekly schedules and project timelines
+- `projects/`: Individual project folders with details and tracking
 - `insights/`: What works for this user and lessons learned
 
 ### NEW USER PROTOCOL

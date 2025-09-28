@@ -24,6 +24,7 @@ Welcome to your personal effectiveness workspace! This is where you'll optimize 
 - **`current-status/`** - Your immediate priorities and focus areas
 - **`goals/`** - Long-term objectives and vision setting
 - **`planning/`** - Structured time planning and scheduling
+- **`projects/`** - Individual project folders with details and tracking
 - **`insights/`** - Personal effectiveness discoveries and learnings
 
 ## AI Assistant Features
