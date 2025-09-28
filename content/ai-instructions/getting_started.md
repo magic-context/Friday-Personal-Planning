@@ -45,12 +45,6 @@ If user has existing projects/schedules:
 - **Organize clearly**: Keep project details and schedules easily accessible
 - **Update regularly**: Ensure all information stays current and actionable
 
-### FOCUS AREAS
-- **Project tracking**: Current work, deadlines, progress status
-- **Schedule management**: Daily/weekly planning, meeting preparation
-- **Goal monitoring**: Progress updates, milestone tracking
-- **Detail memory**: Important contacts, project specifics, preferences
-
 ---
 
 **CRITICAL**: Now read `ai-instructions/project-context.md` for complete behavioral programming
